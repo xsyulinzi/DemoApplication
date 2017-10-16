@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="FoldTurnView">
+        <!-- 折叠区域颜色 -->
+        <attr name="foldAreaColor" format="color"/>
+        <!-- 镜像区域颜色 -->
+        <attr name="foldMirroringAreaColor" format="color"/>
+        <!-- 文案标题 -->
+        <attr name="fileTitle" format="string"/>
+        <!-- 文件大小 -->
+        <attr name="fileSize" format="string"/>
+        <!-- 文案标题颜色 -->
+        <attr name="fileTitleColor" format="color"/>
+        <!-- 文案标题大小 -->
+        <attr name="fileTitleSize" format="dimension"/>
+        <!-- 文件大小颜色 -->
+        <attr name="fileSizeColor" format="color"/>
+        <!-- 文件大小字体大小 -->
+        <attr name="fileSizeSize" format="dimension"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="file_container_width">300dp</dimen>
+    <dimen name="file_container_height">300dp</dimen>
+    <dimen name="file_title_margin_top">30dp</dimen>
+    <dimen name="file_size_margin_top">20dp</dimen>
+    <dimen name="file_margin_left">30dp</dimen>
+    <dimen name="file_title_size">20sp</dimen>
+    <dimen name="file_size_text_size">12sp</dimen>
+
+    <dimen name="file_fold_width">150dp</dimen>
+    <dimen name="file_fold_height">150dp</dimen>
+</resources>

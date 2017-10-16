@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <com.demo.FoldTurnView
+        android:id="@+id/fold_turn_view"
+        android:layout_width="@dimen/file_container_width"
+        android:layout_height="@dimen/file_container_height"
+        android:layout_marginTop="@dimen/file_title_margin_top"
+        android:layout_marginLeft="@dimen/file_margin_left"
+        android:background="@color/file_default_bg"
+        app:fileTitle="@string/file_title"
+        app:fileSize="@string/file_size"
+        app:foldAreaColor="@color/file_fold_area"
+        />
+
+
+</LinearLayout>
